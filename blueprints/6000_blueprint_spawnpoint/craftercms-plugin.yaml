@@ -16,7 +16,10 @@ plugin:
     minor: 0
     patch: 1
   description: |
-    Spawnpoint with prepared gear
+    Spawnpoint with prepared gear like
+    - Rollup to build TS and SCSS
+    - Plugin-Livereload
+    - Bootstrap
   website:
     name: Spawnpoint
     url: https://xima.de
