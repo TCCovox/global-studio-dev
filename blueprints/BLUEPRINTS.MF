@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.4.0
+Build-Jdk-Spec: 21
+Implementation-Title: Crafter Studio
+Implementation-Version: 4.4.2
+Implementation-Vendor: CrafterCMS
+Build-On: 1752261008706
+Implementation-Build: 4ddff01655d7f23b9064c20f5bf96a6fffab7533
+
