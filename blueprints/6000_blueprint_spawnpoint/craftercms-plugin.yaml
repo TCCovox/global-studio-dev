@@ -21,7 +21,7 @@ plugin:
     name: Spawnpoint
     url: https://xima.de
   media:
-#    TODO: Screenshot einfügen
+#   TODO: Screenshot einfügen
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
